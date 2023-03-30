@@ -1,4 +1,4 @@
-### Hi I'm Taillandier Mathieu 👋
+![ Hi I'm Taillandier Mathieu 👋](/header.png)
 ![](https://dcbadge.vercel.app/api/shield/warameur#5417)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taillan)](https://github.com/anuraghazra/github-readme-stats)
