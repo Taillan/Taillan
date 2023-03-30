@@ -1,7 +1,10 @@
 ![ Hi I'm Taillandier Mathieu 👋](/header.png)
-![](https://dcbadge.vercel.app/api/shield/205638463687491584)
+#### 📫 How to reach me:
+![](https://komarev.com/ghpvc/?username=Taillan&label=Profile%20Visits&color=blue&style=for-the-badge)  &nbsp; ![](https://dcbadge.vercel.app/api/shield/205638463687491584)  &nbsp;[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ontestuntruc)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mathieu-taillandier/)  &nbsp;[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mat.pwr/)  &nbsp;<a href="mailto:math.tail@outlook.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taillan)](https://github.com/anuraghazra/github-readme-stats)
+[![Taillan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taillan)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 <!--
 **Taillan/Taillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
