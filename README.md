@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Taillandier Mathieu 👋
+![](https://dcbadge.vercel.app/api/shield/warameur#5417)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taillan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Taillan/Taillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
