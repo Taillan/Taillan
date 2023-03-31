@@ -27,3 +27,4 @@
 Develloper for TonTonNFT :
   - Discord BOT
   - Mint BOT
+  - Discord-Bybit Trade bot interface
