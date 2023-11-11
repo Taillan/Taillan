@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Taillan/badge-readme@main
+        uses: Taillan/Taillan@main
