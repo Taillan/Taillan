@@ -1,14 +1,27 @@
 name: Update badges
 
 on:
-  workflow_dispatch:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Taillan/Taillan@main
+        uses: Taillan/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 24
+          REPOSITORY: Taillan/Taillan
+          COMMIT_MESSAGE: "Updated README with new badges locally"
+          CREDLY_USER: taillandier-math-tail-outlook-fr
