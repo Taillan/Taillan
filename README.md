@@ -8,6 +8,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Taillan" alt="Taillan Github Stats"></img>
 </p>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### Tech
 
