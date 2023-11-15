@@ -13,7 +13,7 @@ jobs:
       - name: Badges - Readme
         uses: Taillan/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
           REPOSITORY: Taillan/Taillan
