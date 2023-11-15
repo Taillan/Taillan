@@ -17,4 +17,4 @@ function generateProgressBar() {
 }
 //fs.appendFile("README.md", '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 
-console.log(fs.readFile("./README.md", "utf8"))
+console.log(fs.readFileSync("./README.md", "utf8"))
