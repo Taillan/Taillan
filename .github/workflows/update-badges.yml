@@ -15,7 +15,7 @@ jobs:
         uses: Taillan/badge-readme@main
         with:
           GH_TOKEN: ${{ github.token }}
-          BADGE_SIZE: 100
+          BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 24
           REPOSITORY: Taillan/Taillan
           COMMIT_MESSAGE: "Updated README with new badges locally"
