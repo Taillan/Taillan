@@ -1,4 +1,4 @@
-⏳ Year progress { ██████████████████████████▁▁▁▁ }87.29 % 
+⏳ Year progress { ██████████████████████████▁▁▁▁ }87.33 % 
 ```yaml
 apiVersion: batch/v1
 kind: Developper
