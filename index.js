@@ -5,7 +5,7 @@ const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
-const { promises: fs } = require('fs')
+const fs = require('fs')
 
 function generateProgressBar() {
     const progressBarCapacity = 30
