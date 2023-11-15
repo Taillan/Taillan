@@ -1,4 +1,4 @@
-```yaml
+⏳ Year progress { ██████████████████████████▁▁▁▁ }87.29 %```yaml
 apiVersion: batch/v1
 kind: Developper
 metadata:
@@ -59,3 +59,4 @@ spec:
 - :books: Schools ESIEE Paris<br />
 - :seedling: Currently learning <font color='#4DD0E1'>Kubernetes</font>
 - :chart_with_upwards_trend: Grow every day by reading and lifting 
+
