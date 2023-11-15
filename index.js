@@ -15,7 +15,6 @@ function generateProgressBar() {
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
-const fs = require('fs')
 //fs.appendFile("README.md", '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 
 console.log(fs.readFile("./README.md", "utf8"))
