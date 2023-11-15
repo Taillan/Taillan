@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 const fs = require('fs')
 let readme = ""
-fs.readFile('../README.md', (err, inputD) => {
+fs.readFile('./README.md', (err, inputD) => {
    if (err) throw err;
       readme = inputD.toString();
 })
