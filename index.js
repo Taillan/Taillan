@@ -16,7 +16,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-var contents = fs.readFileSync("README.md", "utf8");
+var contents = fs.readFileSync("README.md.template", "utf8");
 
 contents = '⏳ Year progress '+ progressBarOfThisYear + (progressOfThisYear * 100).toFixed(2)+' %' + contents
 console.log(contents)
