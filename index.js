@@ -13,3 +13,13 @@ function generateProgressBar() {
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
+const fs = require('fs')
+let readme = ""
+fs.readFile('../README.md', (err, inputD) => {
+   if (err) throw err;
+      readme = inputD.toString();
+})
+
+append(readme,'⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
+
+console.log(readme)
