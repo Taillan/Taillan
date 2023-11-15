@@ -59,4 +59,4 @@ spec:
 - :books: Schools ESIEE Paris<br />
 - :seedling: Currently learning <font color='#4DD0E1'>Kubernetes</font>
 - :chart_with_upwards_trend: Grow every day by reading and lifting 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+⏳ Year progress { ██████████████████████████▁▁▁▁ }87.29 %
