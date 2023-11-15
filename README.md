@@ -15,6 +15,7 @@ spec:
       hobbies:
         - sport
         - photography
+        - ethicalHacking
       command: ['sh', '-c', 'echo "Hello, World !" && sleep 3600']
       restartPolicy: OnFailure
 ```
