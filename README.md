@@ -38,5 +38,5 @@
   </p>
   
 - :books: Schools ESIEE Paris<br />
-- :seedling: Currently learning <font color='#4DD0E1'>React</font> for a perssonals project mixin powerlifting and data visualization
+- :seedling: Currently learning <font color='#4DD0E1'>Kubernetes</font>
 - :chart_with_upwards_trend: Grow every day by reading and lifting 
