@@ -16,4 +16,4 @@ function generateProgressBar() {
 const fs = require('fs')
 //fs.appendFile("README.md", '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 
-console.log(fs.readFileSync("README.md", "utf8"))
+console.log(fs.readFileSync("@/README.md", "utf8"))
