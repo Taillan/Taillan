@@ -6,18 +6,16 @@ metadata:
   post: Devops
   entreprise: Estella Mobility
 spec:
-  template:
-    spec:
-      knowledges:
-        - kubernetes
-        - gitlabCI
-        - docker
-      hobbies:
-        - sport
-        - photography
-        - ethicalHacking
-      command: ['sh', '-c', 'echo "Hello, World !" && sleep 3600']
-      restartPolicy: OnFailure
+  knowledges:
+    - kubernetes
+    - gitlabCI
+    - docker
+  hobbies:
+    - sport
+    - photography
+    - ethicalHacking
+  command: ['sh', '-c', 'echo "Hello, World !" && sleep 3600']
+  restartPolicy: OnFailure
 ```
 
 ### 📫 How to reach me:
