@@ -2,16 +2,19 @@
 apiVersion: batch/v1
 kind: Developper
 metadata:
-  name: Taillandier
+  name: Taillan
   post: Devops
+  entreprise: Estella Mobility
 spec:
   template:
     spec:
       knowledges:
-        - Kubernetes
-        - GitlabCI
-        - Docker
-        - 
+        - kubernetes
+        - gitlabCI
+        - docker
+      hobbies:
+        - sport
+        - photography
       command: ['sh', '-c', 'echo "Hello, World !" && sleep 3600']
       restartPolicy: OnFailure
 ```
