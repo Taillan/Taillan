@@ -5,6 +5,8 @@ const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
+const { promises: fs } = require('fs')
+
 function generateProgressBar() {
     const progressBarCapacity = 30
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
@@ -16,4 +18,4 @@ function generateProgressBar() {
 const fs = require('fs')
 //fs.appendFile("README.md", '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 
-console.log(fs.readFileSync("./README.md", "utf8"))
+console.log(fs.readFile("./README.md", "utf8"))
