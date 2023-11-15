@@ -15,6 +15,5 @@ function generateProgressBar() {
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
     return `{ ${progressBar} }`
 }
-//fs.appendFile("README.md", '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
-var contents = fs.readFileSync("README.md", "utf8");
+var contents = fs.appendFile(fs.readFileSync("README.md", "utf8"), '⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 console.log(contents)
