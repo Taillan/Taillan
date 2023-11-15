@@ -20,6 +20,6 @@ fs.readFile('../README.md', (err, inputD) => {
       readme = inputD.toString();
 })
 
-readme.push('⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
+concat(readme,'⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %')
 
 console.log(readme)
