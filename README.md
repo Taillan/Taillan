@@ -14,7 +14,7 @@ spec:
     - sport
     - photography
     - ethicalHacking
-  command: ['sh', '-c', 'echo "Hello, World !" && sleep 3600']
+  command: ['sh', '-c', 'echo "Hello, who want a coffee ?" && sleep 3600']
   restartPolicy: OnFailure
 ```
 
