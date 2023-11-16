@@ -1,5 +1,5 @@
 
-name: Progress Bar CI
+name: U
 
 on:
   workflow_dispatch:
