@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "0 2 * * *"
+    #- cron: "0 2 * * *"
 jobs:
   update-readme:
     permissions: write-all
