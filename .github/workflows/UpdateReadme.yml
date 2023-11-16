@@ -1,5 +1,5 @@
 
-name: U
+name: updateReadme
 
 on:
   workflow_dispatch:
