@@ -27,6 +27,7 @@ jobs:
           git commit -am "bot: update README.md automatically"
           git push
   update-readme:
+    needs: build
     permissions: write-all
     name: Update Readme with badges
     runs-on: ubuntu-latest
