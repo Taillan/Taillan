@@ -1,4 +1,4 @@
-⏳ Year progress { ███████████████████████████▁▁▁ }90.70 % 
+⏳ Year progress { ███████████████████████████▁▁▁ }90.76 % 
 ```yaml
 apiVersion: batch/v1
 kind: Developper
@@ -32,8 +32,6 @@ spec:
 <p align="left">
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/150x150/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c25ecc76-c333-4299-b739-53222ef922ab "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/150x150/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/905904dd-5a9c-401b-8480-40c9bc334f83 "CKAD: Certified Kubernetes Application Developer")
 <!--END_SECTION:badges-->
 
 </p>
