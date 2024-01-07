@@ -20,7 +20,7 @@ kind: Developper
 metadata:
   name: Taillan
   post: Devops
-  entreprise: Estella Mobility
+  entreprise: Bertrandt
 spec:
   knowledges:
     - kubernetes
