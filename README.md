@@ -1,4 +1,20 @@
 ⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ }1.78 % 
+
+## 📆 2024 :
+- Start a new job in Kubernetes tech
+  
+## ☑️ 2023 :
+- got my degree
+- start my first job as DevOps engeener
+- get certified :
+    CKAD 16/11/23
+    CKA  26/11/23
+    CKAD 13/12/23
+- 📚 :
+    Atomics Habits
+    Comment se faire des amis
+- 🗺️ I gone to NYC 1 month
+  
 ```yaml
 apiVersion: batch/v1
 kind: Developper
