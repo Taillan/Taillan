@@ -5,7 +5,7 @@ on:
   push:
     # only trigger on branches, not on tags
     branches: '**'
-  workflow_dispatch
+  workflow_dispatch:
   schedule:
     - cron: '0 0 */2 * *'
 
