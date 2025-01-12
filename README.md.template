@@ -1,6 +1,5 @@
-<code><img src="asset/landscape.jpg"></code>
-   
 [![updateReadme](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml/badge.svg)](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml)
+<code><img src="asset/landscape.jpg"></code>
 
 # My Certifications
 
@@ -10,6 +9,28 @@
 <!--END_SECTION:badges-->
 
 </p>
+
+# Me
+
+```yaml
+apiVersion: batch/v1
+kind: Developper
+metadata:
+  name: Taillan
+  post: Devops
+  entreprise: Bertrandt
+spec:
+  knowledges:
+    - kubernetes
+    - gitlabCI
+    - docker
+  hobbies:
+    - sport
+    - photography
+    - ethicalHacking
+  command: ['sh', '-c', 'echo "Hello, who want a coffee ?"]
+  restartPolicy: OnFailure
+```
 
 # Annual log book
 
