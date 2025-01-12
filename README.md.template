@@ -18,10 +18,10 @@ kind: Developper
 metadata:
   name: Taillan
   post: Devops
-  entreprise: Bertrandt
 spec:
   knowledges:
     - kubernetes
+    - AWS
     - gitlabCI
     - docker
   hobbies:
@@ -35,7 +35,7 @@ spec:
 # Annual log book
 
 ## 📆 2025 :
-- ... we will see
+- ... who know's ?
 
 ## ☑️ 2024 :
 - 🗺️ :
