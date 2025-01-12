@@ -47,26 +47,6 @@
 
 - 🗺️ I gone to NYC 1 month
 
-```yaml
-apiVersion: batch/v1
-kind: Developper
-metadata:
-  name: Taillan
-  post: Devops
-  entreprise: Bertrandt
-spec:
-  knowledges:
-    - kubernetes
-    - gitlabCI
-    - docker
-  hobbies:
-    - sport
-    - photography
-    - ethicalHacking
-  command: ['sh', '-c', 'echo "Hello, who want a coffee ?"]
-  restartPolicy: OnFailure
-```
-
 ### 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mathieu-taillandier/)   &nbsp; ![](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white) ![](https://komarev.com/ghpvc/?username=Taillan&label=Profile%20Visits&color=blue&style=for-the-badge)  &nbsp; 
 
