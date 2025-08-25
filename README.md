@@ -1,4 +1,4 @@
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ }64.12 % 
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ }64.67 % 
 [![updateReadme](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml/badge.svg)](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml)
 <code><img src="asset/landscape.jpg"></code>
 
@@ -7,11 +7,6 @@
 <p align="center">
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e266f0eb-4350-4538-a8cb-7344b26d6c98" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c25ecc76-c333-4299-b739-53222ef922ab" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/905904dd-5a9c-401b-8480-40c9bc334f83" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/956d9ff2-f445-49b7-ad32-c651794dfcf8" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9cb42e03-f5f6-4e6a-be15-7c26b2388b4a" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 </p>
