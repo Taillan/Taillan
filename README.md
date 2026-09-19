@@ -1,4 +1,4 @@
-⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ }70.99 % 
+⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ }71.54 % 
 [![updateReadme](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml/badge.svg)](https://github.com/Taillan/Taillan/actions/workflows/UpdateReadme.yml)
 <code><img src="asset/landscape.jpg"></code>
 
