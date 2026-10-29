@@ -43,4 +43,4 @@ jobs:
           NUMBER_LAST_BADGES: 24
           REPOSITORY: Taillan/Taillan
           COMMIT_MESSAGE: "Updated README with new badges locally"
-          CREDLY_USER: taillandier-math-tail-outlook-fr
+          CREDLY_USER: taillan
